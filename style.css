@@ -1,0 +1,45 @@
+*{
+    font-family: sans-serif;
+    background-color: aqua;
+}
+p{
+    color: rebeccapurple;
+}
+table{
+    border-style: solid;
+    border-color: black;
+    margin-left: 580px;
+}
+td{
+    border-style: solid ;
+    border-color: black;
+}
+tr{
+    border-style: solid;
+    border-color: black;
+}
+img{
+    width: 200px;
+    margin-left: 625px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+ul{
+    margin-left: 625px;
+}
+ol{
+    margin-left: 625px;
+}
+input{
+    margin-left: 675px;
+}
